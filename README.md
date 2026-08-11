@@ -13,7 +13,7 @@ An end-to-end computer vision pipeline built with **PyTorch**, **ResNet18**, and
 * **Interactive Multi-Mode CLI:** Comprehensive inference interface supporting:
   1. **1-on-1 Image Comparison:** Instant similarity scoring between two local face images.
   2. **Image vs. Identity Verification:** Score a target photo against a full folder of scraped images.
-  3. **$N \times M$ Matrix Cross-Comparison:** Compute average and peak similarity matrices between two distinct identities.
+  3. **$N \times M$ Matrix Cross-Comparison:** Compute average similarity between two distinct identities.
 
 ---
 
