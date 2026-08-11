@@ -36,8 +36,8 @@ AI-Face-Similarity-Checker/
 
 ## Quickstart Guide
 
-1. Installation
-Clone the repository and install dependencies:
+1. **Installation**
+* Clone the repository and install dependencies:
 ```
   git clone https://github.com/S-M-5/AI-Face-Similarity-Checker
   cd AI-Face-Similarity-Checker
