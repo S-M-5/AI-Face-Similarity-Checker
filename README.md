@@ -50,7 +50,7 @@ AI-Face-Similarity-Checker/
 python scrape_faces.py
 python clean_dataset.py
 ```
-* Or if you want to scrape a large number of people make a file called names.txt in main folder, seperate names using &, and run:
+* Or if you want to scrape a large number of people make a file called names.txt in main folder, separate names using &, and run:
 ```
 python bulk_scrape.py
 python clean_dataset.py
