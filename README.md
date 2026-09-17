@@ -1,6 +1,7 @@
 # AI-Face-Similarity-Checker
 
 An end-to-end computer vision pipeline built with **PyTorch**, **ResNet18**, and **MTCNN**. This project fine-tunes a deep feature extractor using **Triplet Margin Loss** to project human faces into a 128-dimensional metric hypersphere, enabling accurate facial verification, identity scoring, and $N \times M$ cross-comparison analysis.
+
 ![Project Architecture Diagram](diagram.png)
 ---
 
